@@ -1,0 +1,56 @@
+[
+  {
+    "text": "What is the correct syntax for creating an oblect instance:",
+    "options": [
+      "`new {x=1, y=2}`",
+      "`{x: 1, y: 2}`",
+      "`{x=1, y=2}`",
+      "`new {x: 1, y: 2}`"
+    ],
+    "answer": 1,
+    "area": "objects",
+    "level": "beginner"
+  },
+  {
+    "text": "Which of the following will create a copy of an array sush that changes to the old array will not be reflected in the new array?",
+    "options": [
+      "`var newArray = oldArray;`",
+      "`var newArray = oldArray.slice();`",
+      "`var newArray = [oldArray];`",
+      "`var newArray = new Array(oldArray)`"
+    ],
+    "answer": 1,
+    "area": "arrays",
+    "level": "intermediate"
+  },
+  {
+    "text": "How do you accomplish function overlosding behavior in Javascript?",
+    "options": [
+      "you inspect the `arguments` object to determine what parameters were passed in.",
+      "You can accept an array or object as a single parameter.",
+      "You can define a function more than once width different parameters."
+    ],
+    "answer": 0,
+    "area": "functions",
+    "level": "advanced"
+  },
+  {
+    "text": "Which of the following is a method of a `RegExp` object",
+    "options": ["`ignoreCase`", "`makeMultiline()`", "`eval()`", "`exec()`"],
+    "answer": 3,
+    "area": "regex",
+    "level": "advanced"
+  },
+  {
+    "text": "what does JSON stand for",
+    "options": [
+      "Javascript Object Notation Parser",
+      "Javascript Object Notation Predicate",
+      "Javascript Object Notation width Padding",
+      "Javascript Object Notation Protocol"
+    ],
+    "answer": 2,
+    "area": "ajax",
+    "level": "advanced"
+  }
+]
